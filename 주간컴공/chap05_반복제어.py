@@ -27,5 +27,5 @@ while True:
     if(value%4==0):
         cnt_four+=1
         val_four.append(value)
-print("입력 받은 4의 배수의 갯수는 {0} 입니다.".format(cnt_four))
+print("입력 받은 4의 배수의 갯수는 {0}개 입니다.".format(cnt_four))
 print(val_four)
